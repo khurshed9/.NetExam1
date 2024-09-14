@@ -1,0 +1,14 @@
+C:\Users\VICTUS\Desktop\MyExam\bin\Debug\net8.0\MyExam.exe
+C:\Users\VICTUS\Desktop\MyExam\bin\Debug\net8.0\MyExam.deps.json
+C:\Users\VICTUS\Desktop\MyExam\bin\Debug\net8.0\MyExam.runtimeconfig.json
+C:\Users\VICTUS\Desktop\MyExam\bin\Debug\net8.0\MyExam.dll
+C:\Users\VICTUS\Desktop\MyExam\bin\Debug\net8.0\MyExam.pdb
+C:\Users\VICTUS\Desktop\MyExam\obj\Debug\net8.0\MyExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\Desktop\MyExam\obj\Debug\net8.0\MyExam.AssemblyInfoInputs.cache
+C:\Users\VICTUS\Desktop\MyExam\obj\Debug\net8.0\MyExam.AssemblyInfo.cs
+C:\Users\VICTUS\Desktop\MyExam\obj\Debug\net8.0\MyExam.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Desktop\MyExam\obj\Debug\net8.0\MyExam.dll
+C:\Users\VICTUS\Desktop\MyExam\obj\Debug\net8.0\refint\MyExam.dll
+C:\Users\VICTUS\Desktop\MyExam\obj\Debug\net8.0\MyExam.pdb
+C:\Users\VICTUS\Desktop\MyExam\obj\Debug\net8.0\MyExam.genruntimeconfig.cache
+C:\Users\VICTUS\Desktop\MyExam\obj\Debug\net8.0\ref\MyExam.dll
